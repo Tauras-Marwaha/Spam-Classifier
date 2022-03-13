@@ -1,7 +1,5 @@
 # Spam-Classifier
 
-Spam Classifier
-
 This uses the data from UCI Machine Learning Repository
 
 It primarly performs some NLP on the spam/ not spam data and converts it into Bag of Words model (vectorized)
